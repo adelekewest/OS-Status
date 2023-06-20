@@ -1,1 +1,1 @@
-This is a bash script that checks your linux operating system for Memory Usage, CPU Load, Number of TCP connenctions and the Kernel version of your OS. Enjoy.
+This is a bash script that checks your linux operating system for Memory Usage, CPU Load, Number of TCP connenctions and the Kernel version of your OS.

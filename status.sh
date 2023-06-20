@@ -1,12 +1,12 @@
 #!/bin/bash
 
-##
+###
 #Bash scripts that checks:
 # - Memory Usage
 # - CPU load
 # - Number of TCP connections
 # - Kernel version
-##
+###
 
 
 server_name=$(hostname)
